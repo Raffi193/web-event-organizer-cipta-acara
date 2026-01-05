@@ -1,6 +1,6 @@
-# Momenta EO
+# CiptaAcara EO
 
-**Momenta EO** adalah aplikasi Event Organizer berbasis web yang dibangun menggunakan [Laravel 12](https://laravel.com/docs/12.x) dengan antarmuka dinamis melalui [Laravel Livewire](https://livewire.laravel.com/). Aplikasi ini mendukung proses booking event, pembayaran otomatis, serta notifikasi WhatsApp secara real-time.
+**CiptaAcara EO** adalah aplikasi Event Organizer berbasis web yang dibangun menggunakan [Laravel 12](https://laravel.com/docs/12.x) dengan antarmuka dinamis melalui [Laravel Livewire](https://livewire.laravel.com/). Aplikasi ini mendukung proses booking event, pembayaran otomatis, serta notifikasi WhatsApp secara real-time.
 
 ---
 
